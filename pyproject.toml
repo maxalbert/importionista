@@ -5,3 +5,9 @@ description = "Serving your automatic import needs for Python namespace packages
 readme = "README.md"
 requires-python = ">=3.9"
 dependencies = []
+
+[dependency-groups]
+dev = [
+    "ipdb>=0.13.13",
+    "ipython>=8.18.1",
+]
