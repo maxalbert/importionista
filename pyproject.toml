@@ -1,0 +1,7 @@
+[project]
+name = "importionista"
+version = "0.1.0"
+description = "Serving your automatic import needs for Python namespace packages"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
